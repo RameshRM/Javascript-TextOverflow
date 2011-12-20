@@ -1,0 +1,7 @@
+    .text_overflow
+    {
+        text-decoration:underline;
+        font-style:italic;
+        font-size:smaller;
+        color:blue;
+     }
